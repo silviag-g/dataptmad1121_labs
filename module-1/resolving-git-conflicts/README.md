@@ -1,5 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+#THIS IS A VERSION OF RESOLVING GIT CONFLICTS WHICH HAS BEEN MODIFIED (17/11/2021)
 # Lab | Resolving Git Conflicts
 
 ## Introduction
